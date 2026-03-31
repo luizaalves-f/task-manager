@@ -1,0 +1,3 @@
+/*
+Funções de autenticação
+*/
