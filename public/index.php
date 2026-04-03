@@ -1,4 +1,4 @@
-/*
-Front controller
-*/
-include ('../includes/teste.php');
+<?php
+
+session_start();
+
